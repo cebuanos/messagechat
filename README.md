@@ -16,6 +16,3 @@ This repo shows an example chat application using RxJS and Angular. The goal is 
   <img src="src/assets/images/readme/full-chat-preview.png" alt="Angular RxJS Chat" width="800" height="577"/>
 </p>
 
-
-## License
- [MIT](/LICENSE.md)
